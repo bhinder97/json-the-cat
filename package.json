@@ -19,5 +19,9 @@
   "homepage": "https://github.com/bhinder97/json-the-cat#readme",
   "dependencies": {
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
   }
 }
